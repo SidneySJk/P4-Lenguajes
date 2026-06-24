@@ -1,0 +1,18 @@
+{
+  "server": {
+    "port": 3001,
+    "host": "0.0.0.0"
+  },
+  "game": {
+    "productionCycleSec": 20,
+    "defaultGameDurationMinutes": 30,
+    "defaultWaitTimeSeconds": 60,
+    "defaultWinPercentage": 0.6
+  },
+  "galaxies": {
+    "path": "./config/galaxia"
+  },
+  "logging": {
+    "level": "info"
+  }
+}
